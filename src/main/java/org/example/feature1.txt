@@ -1,1 +1,3 @@
 init code feature 1
+
+add function A into feature 1
